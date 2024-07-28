@@ -11,4 +11,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 ## Usage
 OASSP Website © 2024 by OASSP.ORG is licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
   
-Last reviewed: May 2024 by KIYINI Joseph Balamazze
+Last reviewed: May 2024 by [KIYINI Joseph Balamazze](https://github.com/josephkb87)
