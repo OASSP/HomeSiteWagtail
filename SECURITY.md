@@ -1,4 +1,19 @@
-# SECURTY 
+# SECURTY
+
+Report a Vulnerability 
+
+### Impact
+_What kind of vulnerability is it? Who is impacted?_
+
+### Patches
+_Has the problem been patched? What versions should users upgrade to?_
+
+### Workarounds
+_Is there a way for users to fix or remediate the vulnerability without upgrading?_
+
+### References
+_Are there any links users can visit to find out more?_
+
 
 # Reporting Security Issues
 
@@ -13,4 +28,4 @@ Report security bugs in third-party modules to the person or team maintaining th
 
 ## Learning More About Security
 
-To learn more about security, please see the [security tutorial](docs/tutorial/security.md).
+To learn more about security, please see the [security tutorial](docs/tutorial/SECURITY.md).
