@@ -5,7 +5,7 @@ HomeSite for OASSP
 1.[OASSP Home WebSite Built with Wagtail](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 
-License
+## License
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
 ## Usage
