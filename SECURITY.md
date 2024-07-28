@@ -1,4 +1,4 @@
-# SECURTY
+# SECURITY
 
 Report a Vulnerability 
 
