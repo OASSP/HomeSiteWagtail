@@ -20,8 +20,8 @@ _Docs_
 - [LICENSE](../docs/LICENSE.md) 
 - [Wiki](https://oassp.github.io/wiki).
 - [Documentation](https://oassp.github.io/docs.html) 
-
-<a href="https://oassp.github.io/privacy">[Privacy Policy</a> <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
+- [Privacy Policy](https://oassp.github.io/privacy)
+- [Terms and Conditions](https://oassp.github.io/termsandconditions)
 
 
 <footer class="main-footer">
