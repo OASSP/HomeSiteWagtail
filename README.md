@@ -26,7 +26,7 @@ _Docs_
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
-      <b> Version</b> 3.0.5
+      <b>
     </div>
     <strong> 
 &copy; 2024 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
