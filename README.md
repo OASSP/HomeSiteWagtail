@@ -18,7 +18,7 @@ _Docs_
 - [Attributions](..docs/Attributions.md)
 - [Code Of Conduct](../docs/CodeOfConduct.md) 
 - [LICENSE](../docs/LICENSE.md) 
-- [Wiki](https://oassp.github.io/wiki).
+- [Wiki](https://oassp.github.io/wiki)
 - [Documentation](https://oassp.github.io/docs.html) 
 - [Privacy Policy](https://oassp.github.io/privacy)
 - [Terms and Conditions](https://oassp.github.io/termsandconditions)
