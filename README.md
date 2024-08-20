@@ -8,10 +8,10 @@ HomeSite for OASSP
 
 _Docs_
 
-** [About Me](https://github.com/josephkb87)  
-** [About OASSP](https://wwww.oassp.org/index.html)   
-** [README](../docs/README.md)   
-** [CHANGELOG](../docs/CHANGELOG.md) 
+- [About Me](https://github.com/josephkb87)  
+- [About OASSP](https://wwww.oassp.org/index.html)   
+-[README](../docs/README.md)   
+- [CHANGELOG](../docs/CHANGELOG.md) 
 ** [Contribute](../docs/CONTRIBUTING.md) 
 ** [Pull Requests](../docs/blob/PRs.md) 
 ** [SECURITY](../docs/SECURITY.md) 
