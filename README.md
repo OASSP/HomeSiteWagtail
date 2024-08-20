@@ -10,16 +10,16 @@ _Docs_
 
 - [About Me](https://github.com/josephkb87)  
 - [About OASSP](https://wwww.oassp.org/index.html)   
--[README](../docs/README.md)   
+- [README](../docs/README.md)   
 - [CHANGELOG](../docs/CHANGELOG.md) 
-** [Contribute](../docs/CONTRIBUTING.md) 
-** [Pull Requests](../docs/blob/PRs.md) 
-** [SECURITY](../docs/SECURITY.md) 
-** [Attributions](..docs/Attributions.md)
-** [Code Of Conduct](../docs/CodeOfConduct.md) 
-** [LICENSE](../docs/LICENSE.md) 
-** [Wiki](https://oassp.github.io/wiki).
-** [Documentation](https://oassp.github.io/docs.html) 
+- [Contribute](../docs/CONTRIBUTING.md) 
+- [Pull Requests](../docs/blob/PRs.md) 
+- [SECURITY](../docs/SECURITY.md) 
+- [Attributions](..docs/Attributions.md)
+- [Code Of Conduct](../docs/CodeOfConduct.md) 
+- [LICENSE](../docs/LICENSE.md) 
+- [Wiki](https://oassp.github.io/wiki).
+- [Documentation](https://oassp.github.io/docs.html) 
 
 <a href="https://oassp.github.io/privacy">Privacy Policy</a> <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
 
