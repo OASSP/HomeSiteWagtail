@@ -21,7 +21,7 @@ _Docs_
 - [Wiki](https://oassp.github.io/wiki).
 - [Documentation](https://oassp.github.io/docs.html) 
 
-<a href="https://oassp.github.io/privacy">Privacy Policy</a> <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
+<a href="https://oassp.github.io/privacy">[Privacy Policy</a> <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
 
 
 <footer class="main-footer">
@@ -29,8 +29,7 @@ _Docs_
       <b> Version</b> 3.0.5
     </div>
     <strong> 
-OASSP Website &copy; 2024 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
+OASSP &copy; 2024 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
     reserved is licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ 
-  </footer>
- )
+  </footer> 
 
