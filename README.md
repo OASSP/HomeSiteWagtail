@@ -29,7 +29,7 @@ _Docs_
       <b>
     </div>
     <strong> 
-&copy; 2024 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
+&copy; 2026 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
     reserved is licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ 
   </footer> 
 
